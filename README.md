@@ -38,9 +38,9 @@ gcc -o airline_reservation airline_reservation.c
 
 Usage Instructions
 
-    Upon launching the program, a start menu will display, prompting you to view the main menu.
+Upon launching the program, a start menu will display, prompting you to view the main menu.
 
-    Select an option from the menu to manage seat assignments:
+Select an option from the menu to manage seat assignments:
         a: Display all seat assignments.
         b: Show a list of empty seats.
         c: Show assigned seats with passenger names.
@@ -50,9 +50,9 @@ Usage Instructions
         g: Quit the program.
         h: Load saved seat assignments from a file.
 
-    Follow the prompts to enter or modify seat assignments as needed.
+Follow the prompts to enter or modify seat assignments as needed.
 
 File Handling
 
-    The program saves seat data to airlineSeating.txt.
-    On program startup, users can load previously saved data to restore their seat assignments.
+The program saves seat data to airlineSeating.txt.
+On program startup, users can load previously saved data to restore their seat assignments.
