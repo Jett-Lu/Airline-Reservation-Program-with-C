@@ -32,9 +32,10 @@ Running the Program
 
 To run the program, execute the following command:
 
+```
 bash
-
-./airline_reservation
+gcc -o airline_reservation airline_reservation.c
+```
 
 Usage Instructions
 
