@@ -33,7 +33,6 @@ Running the Program
 To run the program, execute the following command:
 
 ```
-bash
 gcc -o airline_reservation airline_reservation.c
 ```
 
